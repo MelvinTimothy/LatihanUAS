@@ -1,0 +1,8 @@
+2025-12-09 | tiket konser | Qty: 5 | Total: Rp58500.00 | Date: 05-06
+
+===== SALES SUMMARY =====
+Total Items Sold: 1
+Total Revenue: Rp58500.00
+Generated at: 2025-12-09
+=========================
+

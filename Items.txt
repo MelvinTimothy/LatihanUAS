@@ -1,0 +1,2 @@
+Ticket,tiket konser,13000.0,7,Jakarta,SEAT-1
+Merchandise,gantungan Kunci,123000.0,19,Medan
